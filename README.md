@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gteditor99" alt="gteditor99" /></a> </p>
 
-- 🔭 I’m currently working on [Incognito](https://github.com/gteditor99/incognito)
+- 🔭 I’m currently working on [hex_manipulation](https://github.com/gteditor99/hex_manipulation)
 
 - 🌱 I’m currently learning **nodejs as a backend framework**
 
